@@ -1,2 +1,1 @@
-# AP-CSA-Projects
-Projects I've worked on in AP CSA (my third year of a coding class!)
+### Check out my website [here](https://paraliyzed.net/)!
